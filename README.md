@@ -8,4 +8,4 @@ JS(Javascripts).
 As work proceeds on this project, a more advanced approach will be engaged involving the additional use of programming languages and tools as
 will be required.
 
-This README.md file will be updated (edited) the various phases(Lifecycle?) of this project work.
+This README.md file will be updated (edited) at the various phases(Lifecycle?) of this project work.
