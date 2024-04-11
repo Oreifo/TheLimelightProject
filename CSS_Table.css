@@ -1,0 +1,19 @@
+table {
+	   border:3px solid rgb(255,0,0);
+	  /*  background-color:#ADFF2F;
+	   width:70%;
+	   text-align:center */
+	   /* margin:auto; */
+}
+td:hover {
+	background-color:yellow;
+	color:#FF1493;
+}
+tr,th {
+	background-color:#b8860b;
+	color:black;
+}
+tr,td {
+	background-color:cyan;
+	color:#4B0082
+}

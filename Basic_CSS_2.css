@@ -1,0 +1,29 @@
+
+  p {
+     color: forestgreen;
+	 background-color: #FFFF00;
+	 font-size: 15px;
+	 text-align: right;
+  }
+  
+/*   Another example of external CSS file.
+  
+  Here, i am trying out my knowledge of using comments in my codes.
+ */  
+  /* body {
+    font-style: italic;
+	text-align: center;
+	color: green;
+}
+.class_A {
+    color: blue;
+} */
+
+
+   /* i.  utilizing the text-shadow property to add a shadow behind an element in an HTML file. */
+   
+ h5 {
+	background-color:aliceblue;
+	color:navy;
+	text-shadow:1px 1px 0px #FF0000;
+ }
